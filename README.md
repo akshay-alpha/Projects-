@@ -1,1 +1,1 @@
-# proj-ex
+Practice Machine Learning projects.
